@@ -1,0 +1,94 @@
+ clang++-7 -pthread -std=c++17 -o main main.cpp
+ ./main
+Letter: z Frequency: 0
+Letter: f Frequency: 1
+Letter: g Frequency: 1
+Letter: a Frequency: 5
+Letter: c Frequency: 5
+Letter: e Frequency: 5
+Letter: o Frequency: 7
+Letter: q Frequency: 7
+Letter: l Frequency: 8
+Letter: t Frequency: 13
+Letter: n Frequency: 17
+Letter: s Frequency: 17
+Letter: y Frequency: 19
+Letter: x Frequency: 20
+Letter: v Frequency: 22
+Letter: d Frequency: 23
+Letter: h Frequency: 23
+Letter: u Frequency: 24
+Letter: p Frequency: 30
+Letter: i Frequency: 41
+Letter: w Frequency: 47
+Letter: j Frequency: 48
+Letter: k Frequency: 49
+Letter: m Frequency: 62
+Letter: b Frequency: 68
+Letter: r Frequency: 84
+
+
+
+Letter: z Distribution: 0
+Letter: f Distribution: 0.00154799
+Letter: g Distribution: 0.00154799
+Letter: a Distribution: 0.00773994
+Letter: c Distribution: 0.00773994
+Letter: e Distribution: 0.00773994
+Letter: o Distribution: 0.0108359
+Letter: q Distribution: 0.0108359
+Letter: l Distribution: 0.0123839
+Letter: t Distribution: 0.0201238
+Letter: n Distribution: 0.0263158
+Letter: s Distribution: 0.0263158
+Letter: y Distribution: 0.0294118
+Letter: x Distribution: 0.0309598
+Letter: v Distribution: 0.0340557
+Letter: d Distribution: 0.0356037
+Letter: h Distribution: 0.0356037
+Letter: u Distribution: 0.0371517
+Letter: p Distribution: 0.0464396
+Letter: i Distribution: 0.0634675
+Letter: w Distribution: 0.0727554
+Letter: j Distribution: 0.0743034
+Letter: k Distribution: 0.0758514
+Letter: m Distribution: 0.0959752
+Letter: b Distribution: 0.105263
+Letter: r Distribution: 0.130031
+Total character: 646
+
+
+
+Letter From Table: z Frequency From Table: 0.0007
+Letter From Table: q Frequency From Table: 0.001
+Letter From Table: j Frequency From Table: 0.0015
+Letter From Table: x Frequency From Table: 0.0015
+Letter From Table: k Frequency From Table: 0.0077
+Letter From Table: v Frequency From Table: 0.0098
+Letter From Table: b Frequency From Table: 0.015
+Letter From Table: p Frequency From Table: 0.0193
+Letter From Table: y Frequency From Table: 0.0197
+Letter From Table: g Frequency From Table: 0.0202
+Letter From Table: f Frequency From Table: 0.0223
+Letter From Table: w Frequency From Table: 0.0236
+Letter From Table: m Frequency From Table: 0.0241
+Letter From Table: u Frequency From Table: 0.0276
+Letter From Table: c Frequency From Table: 0.0278
+Letter From Table: l Frequency From Table: 0.0403
+Letter From Table: d Frequency From Table: 0.0425
+Letter From Table: r Frequency From Table: 0.0599
+Letter From Table: h Frequency From Table: 0.0609
+Letter From Table: s Frequency From Table: 0.0633
+Letter From Table: n Frequency From Table: 0.0675
+Letter From Table: i Frequency From Table: 0.0697
+Letter From Table: o Frequency From Table: 0.0751
+Letter From Table: a Frequency From Table: 0.0817
+Letter From Table: t Frequency From Table: 0.0906
+Letter From Table: e Frequency From Table: 0.127
+
+
+translation: 
+
+yecafse the wractnce iu the yasnc mivemeots iu pata ns the uicfs aol masterg iu sedu ns the esseoce iu matsfyagashn rgf parate li n shadd trg ti edfcnlate the mivemeots iu the pata accirlnob ti mg noterwretatnio yasel io uirtg gears iu stflg
+
+nt ns oit ao easg tasp ti exwdano each mivemeot aol nts snbonuncaoce aol sime mfst remano foexwdanoel ti bnve a cimwdete exwdaoatnio ioe kifdl have ti ye qfadnunel aol noswnrel ti sfch ao exteot that he cifdl reach the state iu eodnbhteoel mnol cawayde iu recibonjnob sifoldess sifol aol shawedess shawe n li oit leem mgsedu the unoad afthirntg yft mg exwerneoce knth pata has deut oi lifyt that the uiddiknob ns the wriwer awwdncatnio aol noterwretatnio n iuuer mg theirnes no the hiwe that the esseoce iu ipnoakao parate kndd remano notact 
